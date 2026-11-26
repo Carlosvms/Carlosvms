@@ -22,10 +22,8 @@ Sigo **transformando aprendizado em projetos**, unindo curiosidade técnica, org
 
 ## GitHub
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carlosvms&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Carlosvms" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosvms&theme=transparent&hide_border=true&layout=compact" alt="Linguagens mais usadas por Carlosvms" />
-</p>
+![Carlosvms's Stats](https://github-readme-stats.vercel.app/api?username=Carlosvms&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![Carlosvms's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosvms&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
