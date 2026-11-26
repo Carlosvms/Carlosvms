@@ -4,14 +4,12 @@
 
 **Estudante de Ciência da Computação**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosvin%C3%ADciusmaia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosviniciusmaia/)
 [![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white)](mailto:carlosvmsmg@gmail.com)
 --
-Estudante de Ciência da Computação construindo uma base prática em tecnologia, comprometido em criar soluções modernas, eficientes e voltadas para problemas reais.
+Estudante de Ciência da Computação construindo uma base prática e **explorando** diferentes frentes da tecnologia, comprometido em criar soluções modernas, eficientes e voltadas para problemas reais.
 
-Venho **explorando** diferentes frentes da área, passando por **Python, Java (Spring Boot), APIs RESTful, bancos de dados e computação em nuvem**, além da **engenharia de IA** e automação com **Agentes, RAG, Tool Use (Skills, Memory e MCP**.
-
-Sigo **transformando aprendizado em projetos reais**, unindo curiosidade técnica, organização e visão prática para evoluir e contribuir em diferentes oportunidades na tecnologia.
+Sigo **transformando aprendizado em projetos**, unindo curiosidade técnica, organização e visão prática para evoluir e contribuir em diferentes oportunidades.
 
 ## Linguagens e Tecnologias
 
